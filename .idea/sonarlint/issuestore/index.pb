@@ -9,3 +9,5 @@ I
 contracts/milestones.clar,2/3/23bb09ba94286ddcf8b9e4637f2e323af7429721
 H
 tests/milestones.test.ts,c/9/c9e1eb59fe9973bed5763c6febff5a3663f5a71a
+E
+contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c
